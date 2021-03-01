@@ -1,0 +1,20 @@
+{
+  "name": "sy-records/swoole-hook-addon",
+  "description": "Make some programs compatible with Swoole HOOK.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lu Fei",
+      "email": "lufei@swoole.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "src/Monolog.php"
+    ]
+  },
+  "require": {
+    "ext-swoole": ">=4.4"
+  }
+}
