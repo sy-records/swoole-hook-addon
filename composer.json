@@ -2,7 +2,7 @@
   "name": "sy-records/swoole-hook-addon",
   "description": "Make some programs compatible with Swoole HOOK.",
   "type": "library",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "authors": [
     {
       "name": "Lu Fei",
